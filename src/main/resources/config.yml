@@ -1,0 +1,18 @@
+intro-spawn:
+  world: world
+  x: 1
+  y: 1
+  z: 1
+  yaw: 90
+  pitch: 90
+town-spawn:
+  world: world
+  x: 1
+  y: 1
+  z: 1
+  yaw: 90
+  pitch: 90
+allowed-hats: []
+slow: 0.2
+normal: 0.3
+fast: 0.4

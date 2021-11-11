@@ -1,0 +1,104 @@
+name: WestworldCore
+main: me.ducpro.westworldcore.main.Main
+version: 1.0
+api-version: 1.13
+depend: [NickAPI, Vault]
+softdepend: [PlaceholderAPI]
+commands:
+  westcore:
+    description: null
+    usage: /westcore
+    aliases: wc
+  ooc:
+    description: null
+    usage: /ooc
+    aliases: o
+  looc:
+    description: null
+    usage: /looc
+  toggleooc:
+    description: null
+    usage: /toggleooc
+  local:
+    description: null
+    usage: /local
+  westcorereset:
+    description: null
+    usage: /reset
+  suicide:
+    description: null
+    usage: /suicide
+  sit:
+    description: null
+    usage: /sit
+  help:
+    description: null
+    usage: /help
+  ban:
+    description: null
+    usage: /ban
+  unban:
+    description: null
+    usage: /unban
+  kick: 
+    description: null
+    usage: /kick
+  mute:
+    description: null
+    usage: /mute
+  unmute:
+    description: null
+    usage: /unmute
+  staff:
+    description: null
+    usage: /staff
+  promote:
+    description: null
+    usage: /promote
+  demote:
+    description: null
+    usage: /demote
+  identify:
+    description: null
+    usage: /identify
+  teleport:
+    description: null
+    usage: /teleport
+    aliases: [tp]
+  broadcast:
+    description: null
+    usage: /broadcast
+    aliases: bc
+  message:
+    description: null
+    usage: /message
+    aliases: [msg, whisper, pm, tell]
+  reply:
+    description: null
+    usage: /reply
+    aliases: r
+  coinflip:
+    description: null
+    usage: /coinflip
+  roll:
+    description: null
+    usage: /roll
+  fight:
+    description: null
+    usage: /fight
+  desc:
+    description: null
+    usage: /desc
+  noclip:
+    description: null
+    usage: /noclip
+  me:
+    description: null
+    usage: /me
+    aliases: [profile, character]
+  spit:
+    description: null
+    usage: /spit
+  duel:
+    description: null
+    usage: /duel
