@@ -1,7 +1,7 @@
 # westworld
-Plugin developed in 2020 for the Westworld Minecraft Server
+Plugin developed in 2019 for the Westworld Minecraft Server
 
-Commissioned by the Westworld RPG Minecraft server in the summer of 2020.
+Commissioned by the Westworld RPG Minecraft server in the summer of 2019.
 
 This plugin adds a lot of things necessary for a Wild West RPG experience:
 - Custom player nametags to support names with first and last names, instead of Minecraft-limited usernames. Supported by NickAPI.
